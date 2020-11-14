@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proyectofinal-ntd"
+    }
+  },
+  "defaultProject": "proyectofinal-ntd",
+  "cli": {
+    "analytics": false
+  }
 }
